@@ -24,10 +24,10 @@
   "_spec": "google-currency",
   "_where": "/Users/yoosuf/Desktop/projects/deadpool-catalog",
   "author": {
-    "name": "Muhammad Ilham"
+    "name": "Yoosuf Muhammad"
   },
   "bugs": {
-    "url": "https://github.com/muhilham/google-currency/issues"
+    "url": "https://github.com/yoosuf/google-currency/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -36,7 +36,7 @@
   },
   "deprecated": false,
   "description": "Node.js - google =====================",
-  "homepage": "https://github.com/muhilham/google-currency#readme",
+  "homepage": "https://github.com/yoosuf/google-currency#readme",
   "keywords": [
     "google",
     "finance",
@@ -51,7 +51,7 @@
   "name": "google-currency",
   "repository": {
     "type": "git",
-    "url": "git://github.com/muhilham/google-currency.git"
+    "url": "https://github.com/yoosuf/google-currency.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
